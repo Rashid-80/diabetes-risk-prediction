@@ -2,7 +2,7 @@
 
 An end-to-end Data Analytics and Machine Learning project that analyzes health survey records from **50,000 patients** across **42 features** to classify diabetes risk into **Low**, **Moderate**, or **High** categories. Includes an interactive **Streamlit** web application for real-time patient risk prediction.
 
-🔗 **[Live Streamlit Web App]** *(Paste your Streamlit Cloud link here after deploying)*
+🔗 **[Live Streamlit Web App]** *([Paste your Streamlit Cloud link here after deploying](https://diabetes-risk-prediction-by-rashid.streamlit.app/))*
 
 ## 📌 Project Overview
 * **Objective:** Identify key clinical and lifestyle risk factors for diabetes and build an automated multi-class classification model.
