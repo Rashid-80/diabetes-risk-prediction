@@ -11,7 +11,7 @@ st.write("Adjust the sliders below to predict diabetes risk based on patient hea
 @st.cache_resource
 def train_model():
     # Load dataset
-    df = pd.read_csv(r"C:\Users\korad\Downloads\diabetes_risk_prediction_dataset.csv")
+    df = pd.read_csv("diabetes_risk_prediction_dataset.csv")
     
     # We will use just 4 key features to keep the app simple
     features = ['Age', 'BMI', 'Blood_Glucose', 'HbA1c']
